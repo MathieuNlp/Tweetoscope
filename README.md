@@ -1,4 +1,4 @@
-# tweetoscope_2021_10
+# tweetoscope
 
 
 <!-- PROJECT LOGO -->
